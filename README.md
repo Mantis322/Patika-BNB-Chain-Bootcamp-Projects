@@ -42,7 +42,6 @@ Projects are listed under the following categories:
 | ----------- | ----------- | ----------- |
 | 1     | [NFT Minting](https://patika.dev)     | [Patika.dev](https://patika.dev)  |
 
-
 ## SocialFi
 | Project No      | Project Name | Creator |
 | ----------- | ----------- | ----------- |
