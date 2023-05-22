@@ -20,6 +20,7 @@ Projects are listed under the following categories:
 | Project No      | Project Name | Creator |
 | ----------- | ----------- | ----------- |
 | 1     | [NFT Minting](https://patika.dev)     | [Patika.dev](https://patika.dev)  |
+| 2     | [NFT Minting](https://patika.dev)     | [Patika.dev](https://patika.dev)  |
 
 ## GameFi
 
